@@ -38,7 +38,7 @@ const config: DocsThemeConfig = {
       />
       <meta property="og:title" content="Sao Khuê" />
       <meta property="og:description" content="Wanderer" />
-      <meta name="apple-mobile-web-app-title" content="Mốc Meo" />
+      <meta name="apple-mobile-web-app-title" content="Sao Khuê" />
     </>
   ),
 };
