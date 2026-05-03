@@ -1,7 +1,9 @@
 # KẾ HOẠCH TỔNG THỂ LỚP 3 - NIÊN KHÓA 2026 - 2027
 
 **Giáo viên chủ nhiệm:** Đỗ Anh Minh
+
 **Ngày bắt đầu:** Thứ Hai, ngày 09 tháng 3 năm 2026 (21 tháng 01 Âm lịch)
+
 **Địa điểm:** Hội An, Việt Nam
 
 ---
@@ -22,7 +24,7 @@ Thời gian: 16 tháng 4 - 26 tháng 4 năm 2026 (29 tháng 2 - 10 tháng 3 Âm 
 
 Thời gian: (27 tháng 4 - 10 tháng 5 năm 2026) (11 tháng 3 - 24 tháng 3 Âm lịch)
 
-## Khối 4: Đo lường (3 Tuần)
+## Khối 4: Đo lường & Thực hành tính dọc (3 Tuần)
 
 Thời gian: 11 tháng 5 - 29 tháng 5 năm 2026 (25 tháng 3 - 13 tháng 4 Âm lịch)
 
@@ -50,15 +52,15 @@ Thời gian: 07 tháng 9 - 27 tháng 9 năm 2026 (27 tháng 7 - 18 tháng 8 Âm 
 
 ## Khối 9: Thời gian (3 Tuần)
 
-Thời gian: (28 tháng 9 - 18 tháng 10 năm 2026) (18 tháng 8 - 09 tháng 9 Âm lịch)
+Thời gian: 28 tháng 9 - 18 tháng 10 năm 2026 (18 tháng 8 - 09 tháng 9 Âm lịch)
 
-## Khối 10: Ngữ pháp (2 Tuần)
+## Khối 10: Ngữ pháp & Viết sáng tạo (2 Tuần)
 
-Thời gian: (19 tháng 10 - 01 tháng 11 năm 2026) (10 tháng 9 - 23 tháng 9 Âm lịch)
+Thời gian: 19 tháng 10 - 01 tháng 11 năm 2026 (10 tháng 9 - 23 tháng 9 Âm lịch)
 
 ## 📅 NGHỈ THU (2 Tuần)
 
-Thời gian: (02 tháng 11 - 15 tháng 11 năm 2026)
+Thời gian: 02 tháng 11 - 15 tháng 11 năm 2026
 
 - Thời gian để tránh bão và lũ lụt ở miền Trung Việt Nam. (24 tháng 9 - 07 tháng 10 Âm lịch). Học sinh nghỉ tại nhà.
 
@@ -66,11 +68,15 @@ Thời gian: (02 tháng 11 - 15 tháng 11 năm 2026)
 
 Thời gian: 16 tháng 11 - 06 tháng 12 năm 2026 (08 tháng 10 - 28 tháng 10 Âm lịch)
 
-## Khối 12: Nghề thủ công truyền thống, Sợi & Di sản (5 Tuần)
+## Khối 12: Nghề thủ công truyền thống & Nghề mộc (2 Tuần)
 
-Thời gian: 07 tháng 12 năm 2026 - 10 tháng 01 năm 2027 (29 tháng 10 - 03 tháng 12 Âm lịch)
+Thời gian: 07 tháng 12 - 20 tháng 12 năm 2026 (29 tháng 10 - 12 tháng 11 Âm lịch)
 
-## Khối 13: Tổng kết cuối năm & Tiệc cộng đồng (2 Tuần)
+## Khối 13: Toán học chuyên sâu (3 Tuần)
+
+Thời gian: 21 tháng 12 năm 2026 - 10 tháng 01 năm 2027 (13 tháng 11 - 03 tháng 12 Âm lịch)
+
+## Khối 14: Tổng kết cuối năm & Tiệc cộng đồng (2 Tuần)
 
 Thời gian: 11 tháng 01 - 24 tháng 01 năm 2027 (04 tháng 12 - 17 tháng 12 Âm lịch)
 
