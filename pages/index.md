@@ -1,1 +1,1 @@
-# Lớp Sao Khuê
+# Sao Khuê
