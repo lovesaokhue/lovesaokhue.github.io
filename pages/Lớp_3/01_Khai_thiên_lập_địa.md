@@ -1,0 +1,31 @@
+- **Hạt Mầm Ánh Sáng:** Hạt giống ánh sáng chứa các linh hồn đã nhờ sự hy sinh của các Linh Thần Khổng Lồ để bung nở, xua tan bóng tối và tạo ra các vì sao.
+- **Khai Thiên Lập Địa:** Thần Trụ Trời đã dùng sức mạnh phân chia trời đất, đánh đuổi bóng tối và hóa thân thành Mặt Trời để đánh thức các vị thần khác.
+- **Rồng xuất hiện:** Một con cá chép dũng cảm đã vượt qua chín chín tám mươi mốt kiếp nạn và cổng trời đầy sấm sét để hóa thành Rồng thần uy quyền.
+- **Tiên Lạc:** Cò con vì cứu mẹ đã liều mình bay vào Núi Lửa và dục hỏa trùng sinh trở thành Lạc Thần xinh đẹp có năng lực trị liệu.
+- **Mười hai bà mụ:** Mười hai Nàng Tiên trên Thiên Cung đã dùng linh khí đất trời để nặn ra và thổi hồn cho những đứa trẻ đầu tiên của nhân loại.
+- **Thần Nông:** Thần Nông đã xuất hiện nếm thử các loại thảo mộc chữa bệnh và dạy con người cách gieo hạt, chăn nuôi, làm nông nghiệp.
+- **Lạc Long Quân đánh Ngư tinh:** Thần Rồng Lạc Long Quân dạy dân đúc khối sắt nung đỏ để lừa Ngư Tinh nuốt lấy, sau đó chém quái vật làm ba khúc để mang lại bình yên cho vùng biển.
+- **Lạc Long Quân đánh Hồ tinh:** Lạc Long Quân mượn sức mạnh của Thần Mưa làm ngập hang động để ép Hồ tinh chín đuôi hiện nguyên hình, tiêu diệt nó và tạo ra Đầm Xác Cáo (Hồ Tây).
+- **Lạc Long Quân đánh Mộc Tinh:** Lạc Long Quân hướng dẫn dân làng dùng tiếng trống, chiêng và lửa để dồn ép, đánh bại quái vật Mộc Tinh khổng lồ.
+- **Lạc Long Quân gặp Âu Cơ:** Lạc Long Quân kết duyên cùng nàng tiên Âu Cơ sau khi cùng nhau tịnh hóa các vùng đất ô nhiễm, và hai người đã hạ sinh ra một bọc trăm trứng.
+- **Hỗn Độn trở lại:** Lạc Long Quân và Âu Cơ hy sinh thân mình trong trận Đại Hồng Thủy để bảo vệ bọc trăm trứng cùng các hạt giống sự sống bên trong một quả bầu hồ lô thiêng.
+- **Dòng giống Lạc Hồng:** Một trăm người con từ bọc trứng nở ra đã chia nhau lên non xuống biển, khai phá đất đai và lập nên các bộ tộc dưới sự dẫn dắt của các Vua Hùng.
+- **Thánh Gióng:** Cậu bé Gióng lớn nhanh như thổi, vươn vai thành tráng sĩ khổng lồ mặc giáp sắt và cưỡi ngựa sắt quật ngã quân giặc Ân để bảo vệ đất nước.
+- **Sự tích bánh chưng bánh dày:** Lang Liêu được vua cha truyền ngôi báu nhờ trí tuệ và tấm lòng hiếu thảo khi làm ra bánh chưng, bánh dày từ hạt gạo để tượng trưng cho Đất, Trời và công ơn tổ tiên.
+- **Sự tích Mai An Tiêm (Quả dưa hấu):** Mai An Tiêm bị đày ra đảo hoang nhưng nhờ tinh thần tự lập, chăm chỉ lao động đã tìm ra và nhân giống thành công quả dưa hấu.
+- **Truyền thuyết Bà Thu Bồn:** Bà Thu Bồn dạy dân phương Nam nghề trồng dâu, dệt vải và cuối cùng đã dốc hết linh khí trầm mình xuống sông để cứu nhân dân khỏi cơn lũ dữ.
+- **Sự tích Làng Gốm (Gốm Thanh Hà):** Dân ven sông Thu Bồn phát hiện ra đất sét và học được cách làm chủ ngọn lửa để nung thành các đồ dùng bằng gốm và gạch ngói bền chắc.
+- **Sự tích Làng Mộc (Mộc Kim Bồng):** Kế thừa giống gỗ thiêng, những người thợ tài hoa đã sáng tạo ra kỹ thuật ghép mộng để dựng nhà rường vững chãi và đóng thuyền vươn khơi.
+- **Sơn Tinh - Thuỷ Tinh:** Sơn Tinh cùng sức mạnh đoàn kết đắp đê của hàng vạn người dân đã đánh bại những trận cuồng phong và nước lũ do Thủy Tinh ghen tuông tạo ra.
+- **Sự tích Trầu Cau:** Sự hóa thân đau lòng của ba người thành vôi, cau, trầu đã tôn vinh tình cảm gia đình thủy chung, đồng thời giúp con người tìm ra vữa xây dựng.
+- **Chử Đồng Tử - Tiên Dung:** Công chúa Tiên Dung kết duyên cùng chàng đánh cá nghèo Chử Đồng Tử, cùng nhau mở bến chợ giao thương giúp xã hội chuyển mình phát triển.
+- **Sự tích Ông Công Ông Táo:** Sự hy sinh vì tình nghĩa của ba người Trọng Cao, Thị Nhi và Phạm Lang đã khiến Ngọc Hoàng cảm động, phong họ làm Táo Quân cai quản việc bếp núc trần gian.
+- **Sự tích Chú Cuội Cung Trăng:** Chú Cuội vì cố níu giữ cây đa thiêng mà bị kéo bay lên cung trăng, tạo ra chu kỳ trăng khuyết trăng tròn giúp con người biết cách tính toán lịch pháp.
+- **Sự tích Bông Hoa Mặt Trăng:** Nữ thần Mặt Trăng và Mẹ Tiên Âu Cơ ban cho các bé gái nhịp điệu sinh học thiêng liêng để kết nối với tự nhiên, đòi hỏi sự tôn trọng và chở che từ những người nam giới.
+- **Cóc kiện Trời:** Chú Cóc bé nhỏ cùng các bạn động vật đã dũng cảm lên Thiên Đình đấu tranh, buộc Ngọc Hoàng phải làm mưa cứu thế gian khỏi thảm cảnh hạn hán khốc liệt.
+- **Sự tích 12 con giáp:** Thông qua một cuộc đua qua sông Thu Bồn, Ngọc Hoàng đã chọn ra 12 loài vật để đặt tên cho các năm, giúp dân gian thiết lập được hệ thống đo lường thời gian.
+- **Sự tích cây lúa:** Vì con người lười biếng và hắt hủi hạt lúa khổng lồ tự lăn về nhà, lúa đã biến thành hạt nhỏ, bắt con người phải đổ mồ hôi cày cấy mới có cái ăn.
+- **Sự tích con dế:** Chú dế cô độc tự đào hang và tạo ra tiếng gáy ấm áp đã được Ngọc Hoàng ban cho đôi chân nhảy cao để có thể tự do phiêu lưu khắp chốn.
+- **Trí khôn của ta đây:** Người nông dân dùng mưu trí trói và đốt con hổ kiêu ngạo, chứng minh rằng bằng trí khôn con người đã hoàn toàn làm chủ tự nhiên và muôn thú.
+- **Sự tích cây vú sữa:** Cậu con trai bướng bỉnh bỏ nhà đi, đến khi hối hận quay về thì mẹ đã hóa thành cây vú sữa tỏa bóng mát và cho quả ngọt ngào như tình mẫu tử.
+- **Sự tích cây khế:** Người em thật thà may túi ba gang được chim thần trả ơn bằng vàng bạc, trong khi người anh tham lam may túi to đã phải bỏ mạng dưới đáy biển sâu cùng đống vàng.

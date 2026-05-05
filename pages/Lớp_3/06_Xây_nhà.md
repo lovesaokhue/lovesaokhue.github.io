@@ -11,3 +11,7 @@
 6. Xây dựng nhà mô hình cho khu vườn chung của nông trại trong dòng chảy của môn nặn.
 7. Đo đạc lên kế hoạch xây nhà thật (kích thước thật) trong khu vườn của trường. Nhà khung tre với mái lợp bằng rơm.
 8. Dựng nhà.
+
+## Tham khảo
+
+- [Nhà Rông](https://www.facebook.com/share/p/17PjUDbk5v/)
