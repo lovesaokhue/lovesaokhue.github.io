@@ -76,6 +76,9 @@ Thời gian: 07 tháng 12 - 20 tháng 12 năm 2026 (29 tháng 10 - 12 tháng 11 
 
 Thời gian: 21 tháng 12 năm 2026 - 10 tháng 01 năm 2027 (13 tháng 11 - 03 tháng 12 Âm lịch)
 
+- Ôn luyện và thực hành kỹ năng tính dọc bốn phép tính.
+- Chuẩn bị cho phân số lớp 4.
+
 ## Khối 14: Tổng kết cuối năm & Tiệc cộng đồng (2 Tuần)
 
 Thời gian: 11 tháng 01 - 24 tháng 01 năm 2027 (04 tháng 12 - 17 tháng 12 Âm lịch)
