@@ -74,4 +74,8 @@ Game "Gà hay vịt"
 - Trò chuyện về gà.
 - Vẽ tranh, viết bài, kể chuyện động vật
 
-Chie
+Chiều nặn đất sét quả trứng
+
+### Thứ 3
+
+- Thu
