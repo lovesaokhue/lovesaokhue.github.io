@@ -68,16 +68,16 @@ Thời gian: 02 tháng 11 - 15 tháng 11 năm 2026
 
 Thời gian: 16 tháng 11 - 06 tháng 12 năm 2026 (08 tháng 10 - 28 tháng 10 Âm lịch)
 
-## Khối 12: Nghề thủ công truyền thống & Nghề mộc (2 Tuần)
+## Khối 12: Toán học chuyên sâu (3 Tuần)
 
-Thời gian: 07 tháng 12 - 20 tháng 12 năm 2026 (29 tháng 10 - 12 tháng 11 Âm lịch)
-
-## Khối 13: Toán học chuyên sâu (3 Tuần)
-
-Thời gian: 21 tháng 12 năm 2026 - 10 tháng 01 năm 2027 (13 tháng 11 - 03 tháng 12 Âm lịch)
+Thời gian: 07 tháng 12 - 27 tháng 12 năm 2026 (29 tháng 10 - 19 tháng 11 Âm lịch)
 
 - Ôn luyện và thực hành kỹ năng tính dọc bốn phép tính.
 - Chuẩn bị cho phân số lớp 4.
+
+## Khối 13: Nghề thủ công truyền thống & Nghề mộc (2 Tuần)
+
+Thời gian: 28 tháng 12 năm 2026 - 10 tháng 01 năm 2027 (20 tháng 11 - 03 tháng 12 Âm lịch)
 
 ## Khối 14: Tổng kết cuối năm & Tiệc cộng đồng (2 Tuần)
 
