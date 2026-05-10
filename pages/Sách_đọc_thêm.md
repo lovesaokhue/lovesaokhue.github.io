@@ -2,26 +2,26 @@
 
 ## Sách đọc thêm Mầm non nhỏ
 
-1. **Mặt trời mọc rồi / Good Morning** (Elsa Beskow) — hình ảnh thiên nhiên ấm áp, không cốt truyện phức tạp
-2. **Con gà, con vịt - Bé nhận biết con vật** (Nhiều tác giả Việt Nam - sách bìa cứng)
-3. **Bé ăn gì hôm nay** (Nhiều tác giả Việt Nam - sách bìa cứng)
-4. **Pat the Bunny** (Dorothy Kunhardt) — sách xúc giác, bé chạm tay vào trang sách
-5. **Brown Bear, Brown Bear, What Do You See?** (Bill Martin Jr. & Eric Carle) — lặp lại nhịp nhàng, màu sắc rõ
-6. **Where Is Baby's Belly Button?** (Karen Katz) — sách lật trang, gắn với cơ thể bé
-7. **Bộ sách Ehon Nhật Bản - Bé tập nói** (Nhiều tác giả) — hình đơn giản, từ vựng gần gũi
-8. **Trống cơm - Đồng dao cho bé nhỏ** (Nhiều tác giả Việt Nam) — âm thanh, vần điệu ngắn
-9. **Hush Little Baby** (tranh Brian Pinkney) — bài hát ru thành sách tranh
-10. **Bé và mặt trăng** (Nhiều tác giả - sách bìa cứng Việt Nam) — nhịp ngủ, buổi tối yên tĩnh
-11. **Chú gà con / The Little Yellow Chicken** (Joy Cowley) — câu chuyện nhỏ, lặp lại dễ nhớ
-12. **Cây táo mùa thu** (Elsa Beskow) — tranh đẹp, theo dõi vòng đời cây
-13. **Owl Babies** (Martin Waddell) — câu chuyện về chờ đợi và mẹ trở về, rất an ủi
-14. **Bé Tí đi học mầm non** (Nhiều tác giả Việt Nam) — gần với trải nghiệm thực của bé
-15. **The Snowy Day** (Ezra Jack Keats) — một ngày trong tuyết, đơn giản và thơ mộng
-16. **Ông nội và cháu ra vườn** (Nhiều tác giả Việt Nam - truyện tranh) — tình cảm gia đình, thiên nhiên
-17. **Guess How Much I Love You** (Sam McBratney) — nhịp điệu lặp, tình cảm cha mẹ - con
-18. **Corduroy** (Don Freeman) — chú gấu bông nhỏ tìm chỗ thuộc về, ấm áp
-19. **Mưa - Bộ sách bốn mùa cho bé** (Nhiều tác giả Việt Nam)
-20. **Peter's Chair** (Ezra Jack Keats) — câu chuyện về lớn lên và nhường em, gần gũi
+1. Mặt trời mọc rồi / Good Morning (Elsa Beskow) — hình ảnh thiên nhiên ấm áp, không cốt truyện phức tạp
+2. Con gà, con vịt - Bé nhận biết con vật (Nhiều tác giả Việt Nam - sách bìa cứng)
+3. Bé ăn gì hôm nay (Nhiều tác giả Việt Nam - sách bìa cứng)
+4. Pat the Bunny (Dorothy Kunhardt) — sách xúc giác, bé chạm tay vào trang sách
+5. Brown Bear, Brown Bear, What Do You See? (Bill Martin Jr. & Eric Carle) — lặp lại nhịp nhàng, màu sắc rõ
+6. Where Is Baby's Belly Button? (Karen Katz) — sách lật trang, gắn với cơ thể bé
+7. Bộ sách Ehon Nhật Bản - Bé tập nói (Nhiều tác giả) — hình đơn giản, từ vựng gần gũi
+8. Trống cơm - Đồng dao cho bé nhỏ (Nhiều tác giả Việt Nam) — âm thanh, vần điệu ngắn
+9. Hush Little Baby (tranh Brian Pinkney) — bài hát ru thành sách tranh
+10. Bé và mặt trăng (Nhiều tác giả - sách bìa cứng Việt Nam) — nhịp ngủ, buổi tối yên tĩnh
+11. Chú gà con / The Little Yellow Chicken (Joy Cowley) — câu chuyện nhỏ, lặp lại dễ nhớ
+12. Cây táo mùa thu (Elsa Beskow) — tranh đẹp, theo dõi vòng đời cây
+13. Owl Babies (Martin Waddell) — câu chuyện về chờ đợi và mẹ trở về, rất an ủi
+14. Bé Tí đi học mầm non (Nhiều tác giả Việt Nam) — gần với trải nghiệm thực của bé
+15. The Snowy Day (Ezra Jack Keats) — một ngày trong tuyết, đơn giản và thơ mộng
+16. Ông nội và cháu ra vườn (Nhiều tác giả Việt Nam - truyện tranh) — tình cảm gia đình, thiên nhiên
+17. Guess How Much I Love You (Sam McBratney) — nhịp điệu lặp, tình cảm cha mẹ - con
+18. Corduroy (Don Freeman) — chú gấu bông nhỏ tìm chỗ thuộc về, ấm áp
+19. Mưa - Bộ sách bốn mùa cho bé (Nhiều tác giả Việt Nam)
+20. Peter's Chair (Ezra Jack Keats) — câu chuyện về lớn lên và nhường em, gần gũi
 21. Chú sâu háu ăn (The Very Hungry Caterpillar)
 22. Ngủ ngon nhé mặt trăng (Goodnight Moon)
 23. Chuyện chú thỏ Peter (The Tale of Peter Rabbit)
@@ -127,11 +127,11 @@
 28. Thơ Trần Đăng Khoa viết thời thơ ấu (Trần Đăng Khoa)
 29. Em yêu mùa hè - Thơ và truyện ngắn (Nhiều tác giả Việt Nam)
 30. Bộ sách Ehon Nhật Bản - Tuyển tập (Nhiều tác giả)
-31. **Na Tra đại náo Long cung** – Hình tượng cậu bé anh hùng nổi loạn chống lại cường quyền, đầy màu sắc huyền ảo và sức mạnh.
-32. **Tây Du Ký** (Bản rút gọn và minh họa, tập trung vào sự ra đời của Tôn Ngộ Không) – Những cuộc phiêu lưu đầu tiên của Khỉ Đá đầy phép thuật.
-33. **Sự tích 12 con giáp** – Câu chuyện về cuộc chạy đua của các loài vật, gần gũi và lý giải phong tục.
-34. **Hai mươi bốn tấm gương hiếu thảo** (Bản chọn lọc, có hình) – Những câu chuyện ấm áp về lòng biết ơn và tình yêu thương trong gia đình.
-35. **Truyện thành ngữ qua tranh** (Họa long điểm tình, Mãi độc hoàn châu…) – Hiểu về văn hóa qua những câu chuyện thú vị.
+31. Na Tra đại náo Long cung
+32. Tây Du Ký (Bản rút gọn và minh họa, tập trung vào sự ra đời của Tôn Ngộ Không)
+33. Sự tích 12 con giáp
+34. Hai mươi bốn tấm gương hiếu thảo (Bản chọn lọc, có hình)
+35. Truyện thành ngữ qua tranh (Họa long điểm tình, Mãi độc hoàn châu…)
 
 ## Sách đọc thêm Lớp 3
 
@@ -183,11 +183,11 @@
 46. Building a Dream (Nhiều tác giả)
 47. Scurry (Craig Rousseau)
 48. Reggie: Kid Penguin (Jen de Oliveira)
-49. **Truyện cổ tích các dân tộc thiểu số Trung Hoa** (Dân tộc Choang, Mông Cổ, Tạng…) – Mở ra thế giới quan đa dạng, giàu bản sắc.
-50. **Sự tích Tết Nguyên Tiêu** – Truyện kể về nguồn gốc lễ hội đèn lồng, gắn kết với đời sống văn hóa.
-51. **Cuộc phiêu lưu của chú khỉ con** (Truyện đồng thoại hiện đại) – Hành trình khám phá thế giới tự nhiên và các bài học về lòng dũng cảm.
-52. **Thơ Băng Tâm cho thiếu nhi** (Tập “Những vì sao”, “Suối nước mùa xuân”) – Những vần thơ trong trẻo về tình mẹ, tình bạn và thiên nhiên.
-53. **Cây cầu đá của ông ngoại** (Truyện dân gian) – Đề cao trí thông minh và lòng nhân hậu của con người.
+49. Truyện cổ tích các dân tộc thiểu số Trung Hoa (Dân tộc Choang, Mông Cổ, Tạng…)
+50. Sự tích Tết Nguyên Tiêu
+51. Cuộc phiêu lưu của chú khỉ con (Truyện đồng thoại hiện đại)
+52. Thơ Băng Tâm cho thiếu nhi (Tập “Những vì sao”, “Suối nước mùa xuân”)
+53. Cây cầu đá của ông ngoại (Truyện dân gian)
 54. Dế Mèn phiêu lưu ký
 55. Pinocchio
 56. David và cây vĩ cầm biết nói (Just David)
@@ -265,28 +265,27 @@
 60. Nếu một ngày chúng tớ biến mất (Nhiều tác giả)
 61. Tàn lửa (Lilywiu)
 62. Sống (Hải Anh & Pauline Guitton)
-63. Comic Kĩ năng sống (Đội ngũ "Tý Quậy")
-64. Chronicles of a Lizard Nobody (Patrick Ness)
-65. Unstuck (Barbara Dee)
-66. Puppet (David Almond)
-67. **Hoa Mộc Lan** – Câu chuyện về nữ anh hùng giả trai tòng quân, nuôi dưỡng lòng dũng cảm và hiếu thảo.
-68. **Sơn Hải Kinh cho thiếu nhi** (Bản minh họa các loài thần thú, quái vật kỳ lạ) – Nuôi dưỡng trí tưởng tượng phong phú về thế giới thần thoại phương Đông.
-69. **Bạch Xà truyện** (Bản rút gọn) – Chuyện tình đẹp và lòng chung thủy giữa người và yêu, pha chất huyền ảo.
-70. **Con đường tơ lụa – Những câu chuyện dọc đường** – Hành trình của những thương nhân, nhà sư, nhà thám hiểm trên con đường giao thoa văn minh.
-71. **Truyện kể về Tứ đại phát minh** (Giấy, thuốc súng, la bàn, in ấn) – Kết nối lịch sử và khoa học qua những câu chuyện.
-72. Những tấm lòng cao cả
-73. Peter Pan
-74. Totto-chan bên cửa sổ
-75. Khu vườn bí mật (The Secret Garden)
-76. Công chúa nhỏ (A Little Princess)
-77. Không gia đình (Sans Famille)
-78. Trong gia đình (En Famille)
-79. Chiến binh cầu vồng
-80. Cây cam ngọt của tôi
-81. Chuyện con mèo dạy hải âu bay
-82. Hoàng tử bé
-83. Momo
-84. Nhóc Nicolas
+63. Chronicles of a Lizard Nobody (Patrick Ness)
+64. Unstuck (Barbara Dee)
+65. Puppet (David Almond)
+66. Hoa Mộc Lan
+67. Sơn Hải Kinh cho thiếu nhi (Bản minh họa các loài thần thú, quái vật kỳ lạ)
+68. Bạch Xà truyện (Bản rút gọn)
+69. Con đường tơ lụa – Những câu chuyện dọc đường
+70. Truyện kể về Tứ đại phát minh (Giấy, thuốc súng, la bàn, in ấn)
+71. Những tấm lòng cao cả
+72. Peter Pan
+73. Totto-chan bên cửa sổ
+74. Khu vườn bí mật (The Secret Garden)
+75. Công chúa nhỏ (A Little Princess)
+76. Không gia đình (Sans Famille)
+77. Trong gia đình (En Famille)
+78. Chiến binh cầu vồng
+79. Cây cam ngọt của tôi
+80. Chuyện con mèo dạy hải âu bay
+81. Hoàng tử bé
+82. Momo
+83. Nhóc Nicolas
 
 ## Sách đọc thêm Lớp 5
 
@@ -353,11 +352,11 @@
 61. Peanut Goes for the Gold (Jonathan Van Ness)
 62. The Mostly True Story of Tanner & Louise (Colleen Oakley)
 63. Robot hoang dã trốn thoát / The Wild Robot Escapes (Peter Brown)
-64. **Tam Quốc diễn nghĩa** (Bản rút gọn cho thiếu nhi) – Chú trọng tình huynh đệ Lưu – Quan – Trương, trí tuệ Gia Cát Lượng, lòng trung nghĩa.
-65. **Thủy hử** (Bản rút gọn) – Tinh thần nghĩa hiệp, chống áp bức của 108 anh hùng Lương Sơn Bạc.
-66. **Liêu Trai chí dị** (Bồ Tùng Linh – tuyển chọn truyện phù hợp lứa tuổi) – Những câu chuyện hồ ly, ma nữ đẹp và buồn, khơi gợi trí tưởng tượng và suy tư về nhân tình thế thái.
-67. **Sử ký Tư Mã Thiên – Nhân vật chí** (Tuyển chọn: Nhiếp Chính, Kinh Kha, Hạng Vũ…) – Chân dung những con người khí phách trong lịch sử.
-68. **Cao lương đỏ** (Mạc Ngôn – bản trích đoạn hoặc kể chuyện) – Chất sử thi về con người và quê hương, gợi mở về văn học hiện thực huyền ảo (có thể cân nhắc nếu trẻ đã sẵn sàng).
+64. Tam Quốc diễn nghĩa (Bản rút gọn cho thiếu nhi)
+65. Thủy hử (Bản rút gọn)
+66. Liêu Trai chí dị (Bồ Tùng Linh – tuyển chọn truyện phù hợp lứa tuổi)
+67. Sử ký Tư Mã Thiên – Nhân vật chí (Tuyển chọn: Nhiếp Chính, Kinh Kha, Hạng Vũ…)
+68. Cao lương đỏ (Mạc Ngôn – bản trích đoạn hoặc kể chuyện)
 
 ## Sách đọc thêm Lớp 6
 
@@ -419,11 +418,11 @@
 56. Onyeka and the Academy of the Sun (Tolá Okogwu)
 57. The Clockwork Garden (Gareth P. Jones)
 58. Everlasting Nora (Marie Miranda Cruz)
-59. **Tây Du Ký** (Bản đầy đủ hơn) – Hành trình thỉnh kinh không chỉ là cuộc chiến với yêu quái mà còn là con đường tu tâm, vượt qua chính mình.
-60. **Hồng Lâu Mộng** (Bản tóm tắt cho thiếu niên) – Thế giới của những cô gái tài hoa trong Đại Quan Viên, những rung động đầu đời, vẻ đẹp của thơ ca và bi kịch của sự chia ly.
-61. **Chuyện của Hứa Tam Quan bán máu** (Dư Hoa) – Một tác phẩm nhẹ nhàng hơn của Dư Hoa, vừa bi vừa hài, khắc họa tình phụ tử thiêng liêng và nghị lực sống của con người bình dân.
-62. **Những câu chuyện từ Liêu Trai** (Bản đầy đủ hơn) – Suy ngẫm về tình yêu, lòng chung thủy và những oan hồn.
-63. **Thơ Đỗ Phủ** (Tuyển chọn) – Chất hiện thực, lòng yêu nước và nỗi ưu thời mẫn thế qua những vần thơ lay động.
+59. Tây Du Ký (Bản đầy đủ hơn)
+60. Hồng Lâu Mộng (Bản tóm tắt cho thiếu niên)
+61. Chuyện của Hứa Tam Quan bán máu (Dư Hoa)
+62. Những câu chuyện từ Liêu Trai (Bản đầy đủ hơn)
+63. Thơ Đỗ Phủ (Tuyển chọn)
 64. Alice và xứ sở trong gương
 65. 80 ngày vòng quanh thế giới
 66. Hai vạn dặm dưới biển
@@ -508,11 +507,11 @@
 65. Refugee (Alan Gratz)
 66. The Night Diary (Veera Hiranandani)
 67. The Boy at the Back of the Class (Onjali Q. Raúf)
-68. **Tuyển tập truyện ngắn Lỗ Tấn** (Cố hương, AQ chính truyện, Thuốc) – Những lát cắt sắc lạnh về xã hội Trung Hoa cũ và số phận con người, đánh thức tư duy phản biện.
-69. **Sống** (Dư Hoa) – Một kiệt tác về sức chịu đựng và ý nghĩa của việc tồn tại giữa những biến động lịch sử dữ dội.
-70. **Mùa hè năm ấy** (Dương Hồng Anh) – Văn học thiếu niên hiện đại về tình bạn, những bí mật và sự trưởng thành trong sáng.
-71. **Thơ hiện đại Trung Quốc cho tuổi mới lớn** (Thơ Hải Tử, Bắc Đảo – chọn lọc) – Những câu thơ về thân phận, ước mơ và sự thức tỉnh.
-72. **Đường đến trường** (Truyện kể về trẻ em vùng cao) – Văn học đương đại về khát vọng tri thức và nghị lực.
+68. Tuyển tập truyện ngắn Lỗ Tấn (Cố hương, AQ chính truyện, Thuốc)
+69. Sống (Dư Hoa)
+70. Mùa hè năm ấy (Dương Hồng Anh)
+71. Thơ hiện đại Trung Quốc cho tuổi mới lớn (Thơ Hải Tử, Bắc Đảo – chọn lọc)
+72. Đường đến trường (Truyện kể về trẻ em vùng cao)
 
 ## Sách đọc thêm Lớp 8
 
@@ -578,87 +577,87 @@
 60. Sống mãi với thủ đô (Nguyễn Huy Tưởng)
 61. Tắt đèn (Ngô Tất Tố)
 62. Bỉ vỏ (Nguyên Hồng)
-63. **AQ chính truyện** (Lỗ Tấn – truyện vừa) – Phân tích sâu sắc về tâm lý “tự lừa dối”, một bức chân dung tinh thần gây ám ảnh.
-64. **Đèn lồng đỏ treo cao** (Tô Đồng) – Số phận những người phụ nữ trong xã hội phong kiến, vẻ đẹp và sự tàn nhẫn đan xen.
-65. **Tam Quốc diễn nghĩa** (Bản đầy đủ hơn) – Đọc lại để thấy những toan tính chính trị và bi kịch của những tham vọng lớn lao.
-66. **Thơ Tô Đông Pha** – Tinh thần lạc quan, phóng khoáng, vượt lên nghịch cảnh của một nhà Nho tài tử.
-67. **Một nửa đàn ông là đàn bà** (Trương Hiền Lượng – trích đoạn) – Mở ra những suy tư triết học và tâm lý sâu sắc về tình yêu, dục vọng và sự sáng tạo (cần chọn lọc).
+63. AQ chính truyện (Lỗ Tấn – truyện vừa)
+64. Đèn lồng đỏ treo cao (Tô Đồng)
+65. Tam Quốc diễn nghĩa (Bản đầy đủ hơn)
+66. Thơ Tô Đông Pha
+67. Một nửa đàn ông là đàn bà (Trương Hiền Lượng – trích đoạn)
 
 ## Sách đọc thêm Lớp 9
 
-1. **Phía Tây không có gì lạ** (Erich Maria Remarque)
-2. **Siddhartha - Câu chuyện dòng sông** (Hermann Hesse)
-3. **Cuốn theo chiều gió** (Margaret Mitchell)
-4. **Kẻ ngoại thú** (Albert Camus)
-5. **Tuổi trẻ băn khoăn** (Hermann Hesse)
-6. **Cánh đồng bất tận** (Nguyễn Ngọc Tư)
-7. **Bản án chế độ thực dân Pháp** (Hồ Chí Minh)
-8. **Ruồi trâu** (E. L. Voynich)
-9. **Chùm nho phẫn nộ** (John Steinbeck)
-10. **Người Thăng Long** (Hà Ân)
-11. **Gia đình** (Phan Kế Bính)
-12. **Bỉ vỏ** (Nguyên Hồng)
-13. **Số đỏ** (Vũ Trọng Phụng)
-14. **Chí Phèo** (Nam Cao)
-15. **Nhật ký Đặng Thùy Trâm** (Đặng Thùy Trâm)
-16. **Nanh Trắng** (Jack London)
-17. **Tiếng gọi nơi hoang dã** (Jack London)
-18. **Robinson Crusoe** (Daniel Defoe)
-19. **Cỗ máy thời gian** (H.G. Wells)
-20. **Đảo giấu vàng** (Robert Stevenson)
-21. **Hai vạn dặm dưới đáy biển** (Jules Verne)
-22. **Tám mươi ngày vòng quanh thế giới** (Jules Verne)
-23. **Chúa tể những chiếc nhẫn: Hiệp hội bảo vệ nhẫn** (J.R.R. Tolkien)
-24. **Đấu trường sinh tử** (Suzanne Collins)
-25. **Sáu con quạ** (Leigh Bardugo)
-26. **Kẻ trộm sách** (Markus Zusak)
-27. **Người truyền ký ức** (Lois Lowry)
-28. **Fahrenheit 451** (Ray Bradbury)
-29. **Lửa hận thù (The Hate U Give)** (Angie Thomas)
-30. **Chiến mã** (Michael Morpurgo)
-31. **Hồng Lâu Mộng** (Bản đầy đủ) – Một “bách khoa toàn thư” về cuộc sống, tình yêu, sự đổ vỡ của những lý tưởng đẹp đẽ nhất.
-32. **Đàn tế** (Mạc Ngôn – bản rút gọn) – Sự pha trộn giữa hiện thực tàn khốc và kỳ ảo, lòng trắc ẩn và những bi kịch lớn lao.
-33. **Linh sơn** (Cao Hành Kiện) – Một hành trình đi tìm bản ngã, cái tôi cô đơn giữa thiên nhiên và văn hóa Trung Hoa.
-34. **Thơ Lý Bạch** – Đỉnh cao của sự lãng mạn, tình yêu thiên nhiên và khát vọng tự do tuyệt đối.
-35. **Nỗi buồn chiến tranh** (Bảo Ninh) – Mặc dù là văn học Việt Nam, nhưng nếu muốn một tác phẩm Trung Hoa có cùng chiều sâu về chiến tranh, có thể thay bằng **Tam muội** (Lưu Hằng) hoặc **Cây tỏi nổi giận** (Mạc Ngôn).
+1. Phía Tây không có gì lạ (Erich Maria Remarque)
+2. Siddhartha - Câu chuyện dòng sông (Hermann Hesse)
+3. Cuốn theo chiều gió (Margaret Mitchell)
+4. Kẻ ngoại thú (Albert Camus)
+5. Tuổi trẻ băn khoăn (Hermann Hesse)
+6. Cánh đồng bất tận (Nguyễn Ngọc Tư)
+7. Bản án chế độ thực dân Pháp (Hồ Chí Minh)
+8. Ruồi trâu (E. L. Voynich)
+9. Chùm nho phẫn nộ (John Steinbeck)
+10. Người Thăng Long (Hà Ân)
+11. Gia đình (Phan Kế Bính)
+12. Bỉ vỏ (Nguyên Hồng)
+13. Số đỏ (Vũ Trọng Phụng)
+14. Chí Phèo (Nam Cao)
+15. Nhật ký Đặng Thùy Trâm (Đặng Thùy Trâm)
+16. Nanh Trắng (Jack London)
+17. Tiếng gọi nơi hoang dã (Jack London)
+18. Robinson Crusoe (Daniel Defoe)
+19. Cỗ máy thời gian (H.G. Wells)
+20. Đảo giấu vàng (Robert Stevenson)
+21. Hai vạn dặm dưới đáy biển (Jules Verne)
+22. Tám mươi ngày vòng quanh thế giới (Jules Verne)
+23. Chúa tể những chiếc nhẫn: Hiệp hội bảo vệ nhẫn (J.R.R. Tolkien)
+24. Đấu trường sinh tử (Suzanne Collins)
+25. Sáu con quạ (Leigh Bardugo)
+26. Kẻ trộm sách (Markus Zusak)
+27. Người truyền ký ức (Lois Lowry)
+28. Fahrenheit 451 (Ray Bradbury)
+29. Lửa hận thù (The Hate U Give) (Angie Thomas)
+30. Chiến mã (Michael Morpurgo)
+31. Hồng Lâu Mộng (Bản đầy đủ)
+32. Đàn tế (Mạc Ngôn – bản rút gọn)
+33. Linh sơn (Cao Hành Kiện)
+34. Thơ Lý Bạch
+35. Nỗi buồn chiến tranh (Bảo Ninh)
 
 ## Sách đọc thêm Lớp 10
 
-1. **Sử thi Đăm Săn** (Sử thi Ê-đê)
-2. **Sử thi Đẻ đất đẻ nước** (Sử thi Mường)
-3. **Iliad** (Homer)
-4. **Odyssey** (Homer)
-5. **Gilgamesh** (Sử thi Lưỡng Hà)
-6. **Truyện Kiều** (Nguyễn Du)
-7. **Ramayana** (Sử thi Ấn Độ)
-8. **Chinh phụ ngâm** (Đặng Trần Côn - Đoàn Thị Điểm)
-9. **Beowulf** (Khuyết danh)
-10. **Lục Vân Tiên** (Nguyễn Đình Chiểu)
-11. **Lá cờ thêu sáu chữ vàng** (Nguyễn Huy Tưởng)
-12. **Bến trăng** (Trần Đức Tiến)
-13. **Vang bóng một thời** (Nguyễn Tuân)
-14. **Quê nội** (Võ Quảng)
-15. **Hương rừng Cà Mau** (Sơn Nam)
-16. **Kim** (Rudyard Kipling)
-17. **Don Quixote** (Miguel de Cervantes)
-18. **Ba chàng lính ngự lâm** (Alexandre Dumas)
-19. **Hoàng tử và cậu bé nghèo khổ** (Mark Twain)
-20. **Những cuộc phiêu lưu của Huckleberry Finn** (Mark Twain)
-21. **Bá tước Monte Cristo** (Alexandre Dumas)
-22. **Ivanhoe** (Walter Scott)
-23. **Oliver Twist** (Charles Dickens)
-24. **Jane Eyre** (Charlotte Brontë)
-25. **Kiêu hãnh và định kiến** (Jane Austen)
-26. **Ngựa ô yêu dấu** (Anna Sewell)
-27. **Heidi** (Johanna Spyri)
-28. **Khu vườn bí mật** (Frances Hodgson Burnett)
-29. **Những tấm lòng cao cả** (Edmondo De Amicis)
-30. **Sống (Truyện tranh)** (Hải Anh & Pauline Guitton)
-31. **Kinh Thi** (Tuyển chọn Quốc phong) – Những bài ca dao cổ nhất, trong trẻo và đầy sức sống về tình yêu, lao động.
-32. **Sử ký Tư Mã Thiên** (Đọc toàn tập các phần chính) – Văn sử triết bất phân, những áng văn hào hùng nhất của sử học Trung Hoa.
-33. **Luận ngữ** (Khổng Tử) – Nền tảng của đạo đức phương Đông, đọc để suy ngẫm và phản biện.
-34. **Đạo đức kinh** (Lão Tử) – Triết lý về Đạo, sự vô vi và sống thuận tự nhiên, giúp quân bình tư duy duy lý.
-35. **Tây sương ký** (Vương Thực Phủ) – Kiệt tác kịch nghệ về tình yêu tự do vượt qua lễ giáo phong kiến.
+1. Sử thi Đăm Săn (Sử thi Ê-đê)
+2. Sử thi Đẻ đất đẻ nước (Sử thi Mường)
+3. Iliad (Homer)
+4. Odyssey (Homer)
+5. Gilgamesh (Sử thi Lưỡng Hà)
+6. Truyện Kiều (Nguyễn Du)
+7. Ramayana (Sử thi Ấn Độ)
+8. Chinh phụ ngâm (Đặng Trần Côn - Đoàn Thị Điểm)
+9. Beowulf (Khuyết danh)
+10. Lục Vân Tiên (Nguyễn Đình Chiểu)
+11. Lá cờ thêu sáu chữ vàng (Nguyễn Huy Tưởng)
+12. Bến trăng (Trần Đức Tiến)
+13. Vang bóng một thời (Nguyễn Tuân)
+14. Quê nội (Võ Quảng)
+15. Hương rừng Cà Mau (Sơn Nam)
+16. Kim (Rudyard Kipling)
+17. Don Quixote (Miguel de Cervantes)
+18. Ba chàng lính ngự lâm (Alexandre Dumas)
+19. Hoàng tử và cậu bé nghèo khổ (Mark Twain)
+20. Những cuộc phiêu lưu của Huckleberry Finn (Mark Twain)
+21. Bá tước Monte Cristo (Alexandre Dumas)
+22. Ivanhoe (Walter Scott)
+23. Oliver Twist (Charles Dickens)
+24. Jane Eyre (Charlotte Brontë)
+25. Kiêu hãnh và định kiến (Jane Austen)
+26. Ngựa ô yêu dấu (Anna Sewell)
+27. Heidi (Johanna Spyri)
+28. Khu vườn bí mật (Frances Hodgson Burnett)
+29. Những tấm lòng cao cả (Edmondo De Amicis)
+30. Sống (Truyện tranh) (Hải Anh & Pauline Guitton)
+31. Kinh Thi (Tuyển chọn Quốc phong)
+32. Sử ký Tư Mã Thiên (Đọc toàn tập các phần chính)
+33. Luận ngữ (Khổng Tử)
+34. Đạo đức kinh (Lão Tử)
+35. Tây sương ký (Vương Thực Phủ)
 36. Thời thơ ấu (Maxim Gorky)
 37. Lũ mục đồng
 38. Bắt trẻ đồng xanh (The Catcher in the Rye)
@@ -678,76 +677,76 @@
 
 ## Sách đọc thêm Lớp 11
 
-1. **Parzival** (Wolfram von Eschenbach)
-2. **Walden - Một mình sống trong rừng** (Henry David Thoreau)
-3. **Zen và Nghệ thuật bảo dưỡng xe máy** (Robert M. Pirsig)
-4. **Hamlet** (William Shakespeare)
-5. **Trăm năm cô đơn** (Gabriel García Márquez)
-6. **Martin Eden** (Jack London)
-7. **Suối nguồn** (Ayn Rand)
-8. **Bức tranh của Dorian Gray** (Oscar Wilde)
-9. **Mùi hương** (Patrick Süskind)
-10. **Tội ác và hình phạt** (Fyodor Dostoevsky)
-11. **Gã khờ** (Fyodor Dostoevsky)
-12. **Đồi gió hú** (Emily Brontë)
-13. **Những người khốn khổ** (Victor Hugo)
-14. **Nhà thờ Đức Bà Paris** (Victor Hugo)
-15. **Dưới bánh xe** (Hermann Hesse)
-16. **Người đua diều** (Khaled Hosseini)
-17. **Kẻ trộm bóng** (Marc Levy)
-18. **Nhà giả kim** (Paulo Coelho)
-19. **Bắt trẻ đồng xanh** (J.D. Salinger)
-20. **Khi lỗi thuộc về những vì sao** (John Green)
-21. **Một lít nước mắt** (Kito Aya)
-22. **Đời Pi** (Yann Martel)
-23. **Vào trong hoang dã** (Jon Krakauer)
-24. **Vừa nhắm mắt vừa mở cửa sổ** (Nguyễn Ngọc Thuần)
-25. **Thư gửi Thần Chết** (Quỳnh Hương)
-26. **Hoa trên mộ Algernon** (Daniel Keyes)
-27. **Aristotle và Dante khám phá bí mật vũ trụ** (B. A. Sáenz)
-28. **Tuổi thơ dữ dội** (Phùng Quán)
-29. **Mắt biếc** (Nguyễn Nhật Ánh)
-30. **Sống mãi với thủ đô** (Nguyễn Huy Tưởng)
-31. **Hồng Lâu Mộng** (Nghiên cứu chuyên sâu, phân tích thơ, điển cố) – Đọc như một công trình nghệ thuật sống động.
-32. **Thủy hử** (Bản đầy đủ) – Phân tích mặt tối của nghĩa khí và sự tha hóa của lý tưởng.
-33. **AQ chính truyện** & **Nhật ký người điên** (Lỗ Tấn) – Phê phán quốc dân tính, mở đầu cho văn học hiện đại.
-34. **Rượu** (Mạc Ngôn) – Khám phá văn hóa rượu, bản năng và lịch sử qua lối viết hiện thực huyền ảo.
-35. **Thơ Hải Tử, Cố Thành** – Những đỉnh cao thơ ca hiện đại, đầy ám ảnh về tồn tại và cái chết.
+1. Parzival (Wolfram von Eschenbach)
+2. Walden - Một mình sống trong rừng (Henry David Thoreau)
+3. Zen và Nghệ thuật bảo dưỡng xe máy (Robert M. Pirsig)
+4. Hamlet (William Shakespeare)
+5. Trăm năm cô đơn (Gabriel García Márquez)
+6. Martin Eden (Jack London)
+7. Suối nguồn (Ayn Rand)
+8. Bức tranh của Dorian Gray (Oscar Wilde)
+9. Mùi hương (Patrick Süskind)
+10. Tội ác và hình phạt (Fyodor Dostoevsky)
+11. Gã khờ (Fyodor Dostoevsky)
+12. Đồi gió hú (Emily Brontë)
+13. Những người khốn khổ (Victor Hugo)
+14. Nhà thờ Đức Bà Paris (Victor Hugo)
+15. Dưới bánh xe (Hermann Hesse)
+16. Người đua diều (Khaled Hosseini)
+17. Kẻ trộm bóng (Marc Levy)
+18. Nhà giả kim (Paulo Coelho)
+19. Bắt trẻ đồng xanh (J.D. Salinger)
+20. Khi lỗi thuộc về những vì sao (John Green)
+21. Một lít nước mắt (Kito Aya)
+22. Đời Pi (Yann Martel)
+23. Vào trong hoang dã (Jon Krakauer)
+24. Vừa nhắm mắt vừa mở cửa sổ (Nguyễn Ngọc Thuần)
+25. Thư gửi Thần Chết (Quỳnh Hương)
+26. Hoa trên mộ Algernon (Daniel Keyes)
+27. Aristotle và Dante khám phá bí mật vũ trụ (B. A. Sáenz)
+28. Tuổi thơ dữ dội (Phùng Quán)
+29. Mắt biếc (Nguyễn Nhật Ánh)
+30. Sống mãi với thủ đô (Nguyễn Huy Tưởng)
+31. Hồng Lâu Mộng (Nghiên cứu chuyên sâu, phân tích thơ, điển cố)
+32. Thủy hử (Bản đầy đủ) – Phân tích mặt tối của nghĩa khí và sự tha hóa của lý tưởng.
+33. AQ chính truyện & Nhật ký người điên (Lỗ Tấn)
+34. Rượu (Mạc Ngôn)
+35. Thơ Hải Tử, Cố Thành
 
 ## Sách đọc thêm Lớp 12
 
-1. **Faust** (Johann Wolfgang von Goethe)
-2. **Thế giới của Sophie** (Jostein Gaarder)
-3. **Vũ trụ** (Carl Sagan)
-4. **Nỗi buồn chiến tranh** (Bảo Ninh)
-5. **1984** (George Orwell)
-6. **Trại súc vật** (George Orwell)
-7. **Anna Karenina** (Leo Tolstoy)
-8. **Chiến tranh và Hòa bình** (Leo Tolstoy)
-9. **Lược sử thời gian** (Stephen Hawking)
-10. **Thương nhớ mười hai** (Vũ Bằng)
-11. **Đi tìm lẽ sống** (Viktor Frankl)
-12. **Anh em nhà Karamazov** (Fyodor Dostoevsky)
-13. **Sapiens: Lược sử loài người** (Yuval Noah Harari)
-14. **Súng, vi trùng và thép** (Jared Diamond)
-15. **Giết con chim nhại** (Harper Lee)
-16. **Chúa ruồi** (William Golding)
-17. **Bay trên tổ chim cúc cu** (Ken Kesey)
-18. **Ông già và biển cả** (Ernest Hemingway)
-19. **Frankenstein** (Mary Shelley)
-20. **Mười người da đen nhỏ** (Agatha Christie)
-21. **Án mạng trên chuyến tàu tốc hành phương Đông** (Agatha Christie)
-22. **Thép đã tôi thế đấy** (Nikolai Ostrovsky)
-23. **Khát vọng sống** (Irving Stone)
-24. **Cuốn sách nghĩa trang** (Neil Gaiman)
-25. **Thư viện nửa đêm** (Matt Haig)
-26. **Lưỡi hái tử thần** (Neal Shusterman)
-27. **Quái vật xưng danh** (Patrick Ness)
-28. **Bóng hình của gió** (Carlos Ruiz Zafón)
-29. **Người về từ sao Hỏa** (Andy Weir)
-30. **Tôi là Malala** (Malala Yousafzai)
-31. **Lịch sử văn minh Trung Hoa** (Tiền Mục – bản tóm lược) – Có cái nhìn hệ thống và đầy tự hào (và phê phán) về nền văn minh láng giềng.
-32. **Văn tâm điêu long** (Lưu Hiệp – trích giảng) – Suy ngẫm về bản chất của cái đẹp và sáng tạo văn chương.
-33. **Chuyện của Hứa Tam Quan bán máu** / **Sống** – Đọc lại để chiêm nghiệm về sức mạnh của con người bình thường trong dòng chảy lịch sử.
-34. **Trang Tử** (Nam Hoa kinh – tuyển chọn) – Những câu chuyện ngụ ngôn thâm thúy, giải phóng tư duy khỏi mọi ràng buộc, vươn tới tự do tuyệt đối của tinh thần.
-35. **Thơ Đường & Tống từ** (Tổng tập tuyển chọn) – Thưởng thức vẻ đẹp đỉnh cao của ngôn ngữ và cảm xúc, như món quà chào đời.
+1. Faust (Johann Wolfgang von Goethe)
+2. Thế giới của Sophie (Jostein Gaarder)
+3. Vũ trụ (Carl Sagan)
+4. Nỗi buồn chiến tranh (Bảo Ninh)
+5. 1984 (George Orwell)
+6. Trại súc vật (George Orwell)
+7. Anna Karenina (Leo Tolstoy)
+8. Chiến tranh và Hòa bình (Leo Tolstoy)
+9. Lược sử thời gian (Stephen Hawking)
+10. Thương nhớ mười hai (Vũ Bằng)
+11. Đi tìm lẽ sống (Viktor Frankl)
+12. Anh em nhà Karamazov (Fyodor Dostoevsky)
+13. Sapiens: Lược sử loài người (Yuval Noah Harari)
+14. Súng, vi trùng và thép (Jared Diamond)
+15. Giết con chim nhại (Harper Lee)
+16. Chúa ruồi (William Golding)
+17. Bay trên tổ chim cúc cu (Ken Kesey)
+18. Ông già và biển cả (Ernest Hemingway)
+19. Frankenstein (Mary Shelley)
+20. Mười người da đen nhỏ (Agatha Christie)
+21. Án mạng trên chuyến tàu tốc hành phương Đông (Agatha Christie)
+22. Thép đã tôi thế đấy (Nikolai Ostrovsky)
+23. Khát vọng sống (Irving Stone)
+24. Cuốn sách nghĩa trang (Neil Gaiman)
+25. Thư viện nửa đêm (Matt Haig)
+26. Lưỡi hái tử thần (Neal Shusterman)
+27. Quái vật xưng danh (Patrick Ness)
+28. Bóng hình của gió (Carlos Ruiz Zafón)
+29. Người về từ sao Hỏa (Andy Weir)
+30. Tôi là Malala (Malala Yousafzai)
+31. Lịch sử văn minh Trung Hoa (Tiền Mục – bản tóm lược)
+32. Văn tâm điêu long (Lưu Hiệp – trích giảng)
+33. Chuyện của Hứa Tam Quan bán máu / Sống
+34. Trang Tử (Nam Hoa kinh – tuyển chọn)
+35. Thơ Đường & Tống từ (Tổng tập tuyển chọn)

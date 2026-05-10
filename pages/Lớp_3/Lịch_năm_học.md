@@ -32,13 +32,13 @@ Thời gian: 11 tháng 5 - 29 tháng 5 năm 2026 (25 tháng 3 - 13 tháng 4 Âm 
 
 Thời gian: 01 tháng 6 - 07 tháng 6 năm 2026 (16 tháng 4 - 22 tháng 4 Âm lịch)
 
-## Khối 6: Xây dựng nhà (4 Tuần)
+## Khối 6: Lý thuyết Âm nhạc (3 Tuần)
 
-Thời gian: 08 tháng 6 - 05 tháng 7 năm 2026 (23 tháng 4 - 21 tháng 5 Âm lịch)
+Thời gian: 08 tháng 6 - 28 tháng 6 năm 2026 (23 tháng 4 - 14 tháng 5 Âm lịch)
 
-## Khối 7: Lý thuyết Âm nhạc (3 Tuần)
+## Khối 7: Xây dựng nhà (4 Tuần)
 
-Thời gian: 06 tháng 7 - 26 tháng 7 năm 2026 (22 tháng 5 - 13 tháng 6 Âm lịch)
+Thời gian: 29 tháng 6 - 26 tháng 7 năm 2026 (15 tháng 5 - 13 tháng 6 Âm lịch)
 
 ## 📅 NGHỈ HÈ & CÁC NGÀY LỄ (6 Tuần)
 
