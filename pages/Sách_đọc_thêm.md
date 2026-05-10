@@ -26,10 +26,9 @@
 22. Ngủ ngon nhé mặt trăng (Goodnight Moon)
 23. Chuyện chú thỏ Peter (The Tale of Peter Rabbit)
 24. Chuyến tàu rù rì (The Runaway Bunny)
-25. Cây táo yêu thương (The Giving Tree)
-26. Ai ở sau lưng bạn thế?
-27. Cá voi đỉnh đẩu (The Snail and the Whale)
-28. Chú voi Elmer (Elmer the Patchwork Elephant)
+25. Ai ở sau lưng bạn thế?
+26. Cá voi đỉnh đẩu (The Snail and the Whale)
+27. Chú voi Elmer (Elmer the Patchwork Elephant)
 
 ## Sách đọc thêm Mầm non lớn
 
@@ -56,11 +55,9 @@
 21. Những cuộc phiêu lưu của gấu Pooh (Winnie-the-Pooh)
 22. Truyện cổ Grimm (Tuyển tập)
 23. Truyện cổ Andersen (Tuyển tập)
-24. Cô bé Heidi
-25. Charlotte và mạng nhện (Charlotte's Web)
-26. Chú chuột Stuart Little
-27. Chú nhện dũng cảm (Sophie's Masterpiece)
-28. Hoàng tử ếch
+24. Chú chuột Stuart Little
+25. Chú nhện dũng cảm (Sophie's Masterpiece)
+26. Hoàng tử ếch
 
 ## Sách đọc thêm Lớp 1
 
@@ -200,6 +197,8 @@
 63. Charlie và nhà máy sô-cô-la
 64. Alice ở xứ sở thần tiên
 65. Lại thằng nhóc Emil
+66. Cô bé Heidi
+67. Charlotte và mạng nhện (Charlotte's Web)
 
 ## Sách đọc thêm Lớp 4
 
