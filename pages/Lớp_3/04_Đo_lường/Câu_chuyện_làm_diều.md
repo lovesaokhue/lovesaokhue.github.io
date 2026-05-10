@@ -7,6 +7,7 @@
 - Nhà Trâu Đen có một con Trâu Nhỏ. Tuy gọi là Trâu nhỏ nhưng lại to gấp 10 lần Trâu Đen là ít.
 - Tuy đất đai bạc màu nhưng người dân vẫn lầm lũi làm ruộng.
 - Lần Lạc Long Quân ghé đánh ngư tinh, từ đó mưa thuận gió hoà. Người dân làm ruộng ổn hơn.
+- Hai cậu hay ngồi vắt vẻo trên lưng Trâu Nhỏ nhìn ngắm bầu trời.
 - Lần đánh ngư tinh đó, chỉ có mỗi Trâu Đen là được thị phạm sức mạnh của Lạc Long Quân.
 - Cậu vẫn nhớ mãi cảnh Lạc Long Quân dùng linh lực tạo thành cánh tay, níu lấy mây mà giữ thuyền trên biển.
 - Cậu kể cho Bình An, Bình An mắt sáng như sao, thích thú vô cùng. Cậu mong ước có được năng lực như Lạc Long Quân vậy. Nhưng chưa biết làm sao có được.
