@@ -130,75 +130,67 @@
 34. Hai mươi bốn tấm gương hiếu thảo (Bản chọn lọc, có hình)
 35. Truyện thành ngữ qua tranh (Họa long điểm tình, Mãi độc hoàn châu…)
 
+
 ## Sách đọc thêm Lớp 3
 
-1. Pax - Hành trình tìm lại trọn vẹn (Sara Pennypacker)
-2. Đại náo nhà ông ngoại (Nguyễn Xuân Thủy)
-3. Dưới khung trời ngát xanh (Lữ Mai)
-4. Ra bờ suối ngắm hoa kèn hồng (Nguyễn Nhật Ánh)
-5. Bà ngoại trên cây táo (Mira Lobe)
-6. Cuộc sống bí mật của các loài cây - Bản minh họa cho trẻ em (Peter Wohlleben)
-7. Chuyến phiêu lưu diệu kỳ của Edward Tulane / The Miraculous Journey of Edward Tulane (Kate DiCamillo)
-8. Cậu bé, Chuột Chũi, Cáo và Ngựa (Charlie Mackesy)
-9. Làm bạn với bầu trời (Nguyễn Nhật Ánh)
-10. Bộ sách Vang danh nghề cổ (Nhiều tác giả)
-11. Khu rừng trong chai (Huỳnh Trọng Khang, Nguyễn Cẩm Thu)
-12. Mùa hè không tên (Nguyễn Nhật Ánh)
-13. Cá voi đêm bão (Benji Davies)
-14. Chuyện của Bâu (Trần Thu Hằng)
-15. Ngôi nhà nhỏ trên thảo nguyên / Little House on the Prairie (Laura Ingalls Wilder)
-16. Cậu bé nhà nông / Farmer Boy (Laura Ingalls Wilder)
-17. Charlotte và Wilbur / Charlotte's Web (E.B. White)
-18. Góc sân và khoảng trời (Trần Đăng Khoa)
-19. Gió qua rặng liễu / The Wind in the Willows (Kenneth Grahame)
-20. Pippi Tất Dài / Pippi Longstocking (Astrid Lindgren)
-21. Bác sĩ Aibolit (Korney Chukovsky)
-22. Từ những ruộng rau ở nông trại Cúc Cu (Dy Duyên)
-23. Chú chuột Stuart / Stuart Little (E.B. White)
-24. Chiếc kèn của thiên nga / The Trumpet of the Swan (E.B. White)
-25. Mr. Popper's Penguins (Richard và Florence Atwater)
-26. Hiểu nhầm Betsy (Dorothy Canfield Fisher)
-27. Bộ sách Cánh cụt (Ursula K. Le Guin)
-28. Ramona Quimby, Age 8 (Beverly Cleary)
-29. My Father's Dragon (Ruth Stiles Gannett)
-30. Little House in the Big Woods (Laura Ingalls Wilder)
-31. The Boxcar Children (Gertrude Chandler Warner)
-32. Babe: The Gallant Pig (Dick King-Smith)
-33. The Tale of Despereaux (Kate DiCamillo)
-34. Dark Emperor and Other Poems of the Night (Joyce Sidman)
-35. Orris and Timble: Lost and Found (Kate DiCamillo)
-36. Dragons in a Bag (Zetta Elliott)
-37. Sarai and the Meaning of Awesome (Sarai Gonzalez)
-38. Jasmine Toguchi, Mochi Queen (Debbi Michiko Florence)
-39. Search for a Giant Squid (Mary M. Cerullo)
-40. A Day in the Life of an Astronaut (Nhiều tác giả)
-41. Super Space Weekend (Nhiều tác giả)
-42. The Sky Is Not the Limit (Neil deGrasse Tyson)
-43. A Sky of Paper Stars (Susie Yi)
-44. An American Story (Kwame Alexander)
-45. Stand as Tall as the Trees (Patricia Gualinga)
-46. Building a Dream (Nhiều tác giả)
-47. Scurry (Craig Rousseau)
-48. Reggie: Kid Penguin (Jen de Oliveira)
-49. Truyện cổ tích các dân tộc thiểu số Trung Hoa (Dân tộc Choang, Mông Cổ, Tạng…)
-50. Sự tích Tết Nguyên Tiêu
-51. Cuộc phiêu lưu của chú khỉ con (Truyện đồng thoại hiện đại)
-52. Thơ Băng Tâm cho thiếu nhi (Tập “Những vì sao”, “Suối nước mùa xuân”)
-53. Cây cầu đá của ông ngoại (Truyện dân gian)
-54. Dế Mèn phiêu lưu ký
-55. Pinocchio
-56. David và cây vĩ cầm biết nói (Just David)
-57. Truyện ngụ ngôn Aesop
-58. Pippi Tất Dài (Pippi Longstocking)
-59. Cuộc phiêu lưu của Mít Đặc và các bạn
-60. Bác sĩ Ai-bô-lít
-61. Lại thằng nhóc Emil
-62. Ngôi nhà nhỏ trên thảo nguyên (Bộ)
-63. Charlie và nhà máy sô-cô-la
-64. Alice ở xứ sở thần tiên
-65. Lại thằng nhóc Emil
-66. Cô bé Heidi
-67. Charlotte và mạng nhện (Charlotte's Web)
+1. Đại náo nhà ông ngoại (Nguyễn Xuân Thủy)
+2. Dưới khung trời ngát xanh (Lữ Mai)
+3. Ra bờ suối ngắm hoa kèn hồng (Nguyễn Nhật Ánh)
+4. Bà ngoại trên cây táo (Mira Lobe)
+5. Cuộc sống bí mật của các loài cây - Bản minh họa cho trẻ em (Peter Wohlleben)
+6. Chuyến phiêu lưu diệu kỳ của Edward Tulane / The Miraculous Journey of Edward Tulane (Kate DiCamillo)
+7. Cậu bé, Chuột Chũi, Cáo và Ngựa (Charlie Mackesy)
+8. Làm bạn với bầu trời (Nguyễn Nhật Ánh)
+9. Bộ sách Vang danh nghề cổ (Nhiều tác giả)
+10. Khu rừng trong chai (Huỳnh Trọng Khang, Nguyễn Cẩm Thu)
+11. Cá voi đêm bão (Benji Davies)
+12. Chuyện của Bâu (Trần Thu Hằng)
+13. Ngôi nhà nhỏ trên thảo nguyên / Little House on the Prairie (Laura Ingalls Wilder)
+14. Cậu bé nhà nông / Farmer Boy (Laura Ingalls Wilder)
+15. Charlotte và Wilbur / Charlotte's Web (E.B. White)
+16. Góc sân và khoảng trời (Trần Đăng Khoa)
+17. Gió qua rặng liễu / The Wind in the Willows (Kenneth Grahame)
+18. Pippi Tất Dài / Pippi Longstocking (Astrid Lindgren)
+19. Bác sĩ Aibolit (Korney Chukovsky)
+20. Từ những ruộng rau ở nông trại Cúc Cu (Dy Duyên)
+21. Chú chuột Stuart / Stuart Little (E.B. White)
+22. Chiếc kèn của thiên nga / The Trumpet of the Swan (E.B. White)
+23. Những con chim cánh cụt của ông Popper / Mr. Popper's Penguins (Richard và Florence Atwater)
+24. Hiểu nhầm Betsy (Dorothy Canfield Fisher)
+25. Những chú mèo có cánh / Catwings (Ursula K. Le Guin)
+26. Ramona Quimby, cô bé lên 8 / Ramona Quimby, Age 8 (Beverly Cleary)
+27. Chú rồng của bố tôi / My Father's Dragon (Ruth Stiles Gannett)
+28. Ngôi nhà nhỏ trong rừng rậm / Little House in the Big Woods (Laura Ingalls Wilder)
+29. Trẻ em toa xe lửa / The Boxcar Children (Gertrude Chandler Warner)
+30. Babe: Chú lợn chăn cừu / Babe: The Gallant Pig (Dick King-Smith)
+31. Chuyện con chuột Despereaux / The Tale of Despereaux (Kate DiCamillo)
+32. Hoàng đế bóng đêm và các bài thơ về đêm / Dark Emperor and Other Poems of the Night (Joyce Sidman)
+33. Orris và Timble: Lạc lối và tìm thấy / Orris and Timble: Lost and Found (Kate DiCamillo)
+34. Lũ rồng trong túi / Dragons in a Bag (Zetta Elliott)
+35. Sarai và ý nghĩa của sự tuyệt vời / Sarai and the Meaning of Awesome (Sarai Gonzalez)
+36. Jasmine Toguchi, Nữ hoàng bánh Mochi / Jasmine Toguchi, Mochi Queen (Debbi Michiko Florence)
+37. Truy tìm mực khổng lồ / Search for a Giant Squid (Mary M. Cerullo)
+38. Một ngày trong đời của một phi hành gia / A Day in the Life of an Astronaut (Nhiều tác giả)
+39. Kỳ nghỉ cuối tuần siêu vũ trụ / Super Space Weekend (Nhiều tác giả)
+40. Bầu trời sao giấy / A Sky of Paper Stars (Susie Yi)
+41. Kiên cường như những hàng cây / Stand as Tall as the Trees (Patricia Gualinga)
+42. Xây dựng một giấc mơ / Building a Dream (Nhiều tác giả)
+43. Scurry: Cuộc tháo chạy / Scurry (Craig Rousseau)
+44. Reggie: Chú chim cánh cụt nhỏ / Reggie: Kid Penguin (Jen de Oliveira)
+45. Truyện cổ tích các dân tộc thiểu số Trung Hoa (Dân tộc Choang, Mông Cổ, Tạng…)
+46. Sự tích Tết Nguyên Tiêu
+47. Cuộc phiêu lưu của chú khỉ con (Truyện đồng thoại hiện đại)
+48. Thơ Băng Tâm cho thiếu nhi (Tập “Những vì sao”, “Suối nước mùa xuân”)
+49. Cây cầu đá của ông ngoại (Truyện dân gian)
+50. Dế Mèn phiêu lưu ký
+51. Pinocchio
+52. David và cây vĩ cầm biết nói (Just David)
+53. Truyện ngụ ngôn Aesop
+54. Cuộc phiêu lưu của Mít Đặc và các bạn
+55. Lại thằng nhóc Emil
+56. Charlie và nhà máy sô-cô-la
+57. Alice ở xứ sở thần tiên
+58. Cô bé Heidi
 
 ## Sách đọc thêm Lớp 4
 
