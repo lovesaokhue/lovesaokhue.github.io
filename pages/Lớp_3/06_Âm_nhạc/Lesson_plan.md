@@ -39,6 +39,35 @@ Khi con lên 9, giống như chú chim non rời tổ, con bắt đầu nhận r
 - Chơi nhảy dây.
 - Tĩnh lặng: Ta là con chim hót, ta là một nhành hoa, một nốt trầm xao xuyến, tan biến trong hoà ca.
 
+## Ngày 8
+
+Chất liệu:
+
+- Truyện: David và cây vĩ cầm biết nói
+- Bài hát: Đồ Rê Mi
+- Bài thơ: bản hoà ca trên cánh đồng xanh
+
+Hoạt động:
+
+- Vẽ bò mẹ và bò con: https://youtu.be/EuuXK_YZUD8?si=CdLRiH3ATwi0BjM-
+
+Kiến thức:
+
+- Luyện chép nhạc Ode to joy
+
+Thực hành:
+
+- Hát.
+- Thổi sáo.
+- Thực hành toán đo lường.
+- Kể chuyện.
+
+Chiều:
+
+- Đọc sách.
+- Xây bếp củi.
+- Học tiếng Anh.
+
 ## Ngày 9
 
 Chất liệu:
@@ -50,16 +79,32 @@ Chất liệu:
 Hoạt động:
 
 - Ôn tập 8 nốt nhạc
-
 - Chia nhóm làm bản hoà ca trên cánh đồng: ùm bò, bê bê, huýt sáo kết hợp vỗ tay, nhịp chân
-
 - Chia nhóm xướng 3 nốt để hòa thanh trên sáo: C (nốt tròn), E (nốt trắng), G (nốt đen)
-
 - Vẽ và chép nhạc vào vở
 
 Kiến thức:
 
-- Luyện chép nhạc Ode to joy
+> <br>Nghe vẻ nghe ve
+> <br>Nghe vè đoan ngọ
+> <br>Nhân ngày nắng to
+> <br>Bày mâm lễ nhỏ
+> <br>Âm dương hoà hợp
+> <br>Trên dưới đủ đầy
+> <br>
+> <br>Cơm rượu sáng ngày
+> <br>Trái cây chín mọng
+> <br>Bánh ú, bánh trôi
+> <br>Chè kê vàng óng
+> <br>
+> <br>Cầu trời phù hộ
+> <br>Mưa gió thuận hoà
+> <br>Sâu bọ tránh xa
+> <br>Nhà nhà khoẻ mạnh
+> <br>Cây cối tốt tươi
+> <br>Tiếng cười rộn rã
+> <br>Nghe vẻ nghe ve
+> <br>Nghe vẻ nghe ve
 
 Thực hành:
 
@@ -85,7 +130,7 @@ Chiều:
 <br>11h00-11h30: Lễ Đoan Ngọ (Hiệp Lá - Khảo Cây)
 <br>11h30-13h00: Ăn Lễ - Dọn dẹp
 
-## Ngày 11-13
+## Ngày 11-14
 
 Chất liệu:
 
@@ -99,8 +144,10 @@ Hoạt động:
 - Chia nhóm xướng 3 nốt để hòa thanh trên sáo:
   - C major: C (nốt tròn), E (nốt trắng), G (nốt đen)
   - G major: G (nốt tròn), B (nốt trắng), D (nốt đen)
+  - G7: G (nốt tròn), B (nốt trắng), D (nốt đen), F (nốt trắng)
 - Hoà âm bài Ode to joy cả nốt thấp và nốt cao.
 - Vẽ và chép nhạc vào vở
+  https://www.youtube.com/watch?v=zplabu_H2Ts&list=PLaz639uFbgFXMLUxsTtCRUAFYzO0LSMM-&index=4
 
 Kiến thức:
 
